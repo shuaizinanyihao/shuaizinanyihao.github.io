@@ -1172,4 +1172,15 @@
         <tag>MQ</tag>
       </tags>
   </entry>
+  <entry>
+    <title>构建认知法则</title>
+    <url>/post/b91c2b7f.html</url>
+    <content><![CDATA[<blockquote><p>构建认知 ~</p></blockquote><a id="more"></a><h3 id="阿里四看"><a href="#阿里四看" class="headerlink" title="阿里四看"></a>阿里四看</h3><ul><li><p><strong>看行业与政策</strong>：这一部分的核心是了解我们所处的行业现状以及未来的政策趋势。行业和政策的变化会直接影响市场格局和业务方向。<em>例如：行业目前处于什么阶段？是快速增长期、成熟期还是衰退期？政府或监管机构对行业有哪些政策？这些政策是利好还是利空？行业有哪些新技术正在兴起？这些技术会带来哪些变革？</em></p></li><li><p><strong>看市场与客户</strong>：这一部分的核心是了解市场需求和客户行为。我们需要知道市场上有哪些机会，客户的需求是什么，以及他们的痛点在哪里。<em>例如：市场有多大？增长空间如何？客户的核心需求是什么？他们的痛点是什么？客户的使用习惯是什么？他们的决策流程是怎样的？</em></p></li><li><p><strong>看自己</strong>：这一部分的核心是评估自己的优势和劣势。我们需要清楚地知道自己的核心竞争力是什么，以及有哪些地方需要改进。<em>例如：我们的产品、团队、资源有哪些优势、劣势？我们有哪些资源可以调动？</em></p></li><li><p><strong>看友商</strong>：这一部分的核心是研究竞争对手的策略和动态。我们需要知道竞争对手在做什么，他们的优势和劣势是什么，以及他们的策略对我们的业务有什么影响。<em>例如：我们的直接竞争对手和间接竞争对手有哪些？他们的产品策略、市场策略、运营策略是什么？</em></p></li></ul><h3 id="SWOT分析法"><a href="#SWOT分析法" class="headerlink" title="SWOT分析法"></a>SWOT分析法</h3><ul><li><strong>优势（Strengths）</strong>：优势是指我们内部的强项，也就是我们比竞争对手做得更好的地方。这些优势可能是资源、能力、技术、品牌、团队等。</li><li><strong>劣势（Weaknesses）</strong>：劣势是指我们内部的不足，也就是我们比竞争对手做得差的地方。这些劣势可能是资源不足、技术短板、团队能力有限等。</li><li><strong>机会（Opportunities）</strong>：机会是指外部的有利条件，也就是市场上我们可以抓住的机会。这些机会可能是市场趋势、政策变化、技术革新等。</li><li><strong>威胁（Threats）</strong>：威胁是指外部的不利条件，也就是市场上可能对我们造成威胁的因素。这些威胁可能是竞争对手、政策变化、市场饱和等。</li></ul><p>​ 通过组合分析（比如“机会+优势”或“威胁+劣势”），我们可以制定更有针对性的策略。业务知识是产品经理的核心能力之一。只有对行业、市场、竞争对手、用户有深刻的认知，我们才能做出正确的判断，设计出符合市场需求的产品。</p><h3 id="5WHY分析法"><a href="#5WHY分析法" class="headerlink" title="5WHY分析法"></a>5WHY分析法</h3><p><a href="https://blog.csdn.net/it_cgq/article/details/121042730" target="_blank" rel="noopener">《5WHY分析法》</a></p><ul><li><p>第一步：发现问题并初步描述<br>在这个步骤中，要首先清晰地了解所出现的问题或故障的详细情况。要求关注每个细节和重要点，了解问题发生的背景和影响范围。只有充分了解问题的具体情况，才能为后续的深入分析打下基础。</p></li><li><p>第二步：提出第一个“为什么”<br>在了解了问题的大致情况后，我们就可以开始对问题提出第一个“为什么”。主要针对问题产生的原因或相关现象进行探究。要挖掘问题产生的背后逻辑，尽可能找到可能导致问题的关键因素。</p></li><li><p>第三步：寻找和确定问题的直接原因<br>在对问题进行了第一个“为什么”的提问后，接下来就要根据得到的信息寻找问题的直接原因。这里可能需要进行一系列的测试、数据分析和实地调查等手段来找到最可能的原因。对于这一步的判断应当非常谨慎，要尽可能避免草率得出结论。</p></li><li><p>第四步：针对直接原因进一步询问“为什么”<br>当我们找到问题的直接原因后，接下来的步骤便是通过问自己或者相关团队进一步的“为什么”来了解造成直接原因的更深层次原因。这一步的关键在于深入挖掘，寻找更深层次的逻辑关系和因果关系。</p></li><li><p>第五步：分析并解决问题<br>在经过多层次的“为什么”提问和探寻后，我们需要总结所获得的所有信息，从根源上分析问题的真正原因，然后寻找解决问题的方法。在这个步骤中，我们可以根据前几步收集的信息和已经发现的潜在规律进行总结和分析，得出最终解决问题的策略。</p></li><li><p>第六步：预防和措施的制定<br>最后一步并不止步于问题的解决，而是要进一步思考如何预防类似问题的再次发生。这需要我们根据解决问题的过程中所积累的经验和教训，制定出相应的预防措施和改进方案，以避免同样的问题再次出现。同时也要进行必要的跟踪和监控，确保新的预防措施有效执行。</p></li></ul><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>认知法则</category>
+      </categories>
+      <tags>
+        <tag>认知法则</tag>
+      </tags>
+  </entry>
 </search>
