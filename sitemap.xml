@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/book/index.html</loc>
+    <loc>https://shuaizinanyihao.github.io/about/index.html</loc>
     
     <lastmod>2023-08-24</lastmod>
     
@@ -749,7 +749,7 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/about/index.html</loc>
+    <loc>https://shuaizinanyihao.github.io/book/index.html</loc>
     
     <lastmod>2023-08-24</lastmod>
     
@@ -1158,7 +1158,7 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/PDF/</loc>
+    <loc>https://shuaizinanyihao.github.io/tags/Fiddler/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1179,13 +1179,6 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/Fiddler/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://shuaizinanyihao.github.io/tags/Algorithm/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1200,6 +1193,13 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/tags/PDF/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/tags/Linux-OS/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1207,7 +1207,7 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/kafka/</loc>
+    <loc>https://shuaizinanyihao.github.io/tags/RPC/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1215,48 +1215,6 @@
   
   <url>
     <loc>https://shuaizinanyihao.github.io/tags/Java/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/DWH/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/MySql/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/OpenSSL/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/QPS/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/MyBatisPlus/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/tags/RPC/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1305,14 +1263,14 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/VMware/</loc>
+    <loc>https://shuaizinanyihao.github.io/tags/Spring/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/Spring/</loc>
+    <loc>https://shuaizinanyihao.github.io/tags/VMware/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1340,13 +1298,6 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/Mind-map/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://shuaizinanyihao.github.io/tags/log4j2/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1354,7 +1305,21 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/tags/Mind-map/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/tags/Sql/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/tags/MySql/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1375,6 +1340,13 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/tags/kafka/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/tags/Https/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1389,6 +1361,13 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/tags/QPS/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/tags/Netty/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1396,7 +1375,21 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/tags/EMQ/</loc>
+    <loc>https://shuaizinanyihao.github.io/tags/OpenSSL/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/tags/DWH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/tags/MyBatisPlus/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1411,6 +1404,13 @@
   
   <url>
     <loc>https://shuaizinanyihao.github.io/tags/CPU/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/tags/EMQ/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1475,13 +1475,6 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/PDF/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://shuaizinanyihao.github.io/categories/Fiddler/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1496,63 +1489,14 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/categories/PDF/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/categories/Linux-OS/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/kafka/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/Redisson/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/DWH/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/MySql/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/OpenSSL/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/QPS/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/SpringBoot/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://shuaizinanyihao.github.io/categories/MyBatisPlus/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1601,6 +1545,20 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/categories/SpringBoot/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/lock/MultiThread/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/categories/JVM/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1615,13 +1573,6 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/VMware/</loc>
-    <lastmod>2026-09-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://shuaizinanyihao.github.io/categories/Spring/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -1629,14 +1580,14 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/TCP/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/VMware/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/lock/MultiThread/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/TCP/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1657,14 +1608,14 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/Mind-map/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/log4j2/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/log4j2/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/Mind-map/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1678,7 +1629,7 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/MySql/lock/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/MySql/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1692,7 +1643,21 @@
   </url>
   
   <url>
+    <loc>https://shuaizinanyihao.github.io/categories/kafka/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://shuaizinanyihao.github.io/categories/Https/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/QPS/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1706,7 +1671,35 @@
   </url>
   
   <url>
-    <loc>https://shuaizinanyihao.github.io/categories/EMQ/</loc>
+    <loc>https://shuaizinanyihao.github.io/categories/OpenSSL/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/MySql/lock/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/Redisson/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/DWH/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/MyBatisPlus/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1714,6 +1707,13 @@
   
   <url>
     <loc>https://shuaizinanyihao.github.io/categories/dump/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shuaizinanyihao.github.io/categories/EMQ/</loc>
     <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
